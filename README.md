@@ -1,12 +1,13 @@
 # Curso de React
+
 Proyectos de React impartido en Udemy
 
-**URL Carrito Compra:** [https://carrito-compra-guitarra.netlify.app/](https://carrito-compra-guitarra.netlify.app/)
+**<a href="https://carrito-compra-guitarra.netlify.app/" target="_blank">URL Carrito Compra</a>**
 
-**URL Calculadora Propinas:** [https://totaltips-calculator.netlify.app/](https://totaltips-calculator.netlify.app/)
+**<a href="https://totaltips-calculator.netlify.app/" target="_blank">URL Calculadora Propinas</a>**
 
-**URL Calculadora Calorias:** [https://fitcount.netlify.app/](https://fitcount.netlify.app/)
+**<a href="https://fitcount.netlify.app/" target="_blank">URL Calculadora Calorias</a>**
 
-**URL Control de Gastos :** [https://controls-budgets.netlify.app/](https://controls-budgets.netlify.app/)
+**<a href="https://controls-budgets.netlify.app/" target="_blank">URL Control de Gastos</a>**
 
-**URL Control de citas y Pacientes Veterinario :** [https://vetcontrol-zustand.netlify.app/](https://vetcontrol-zustand.netlify.app/)
+**<a href="https://vetcontrol-zustand.netlify.app/" target="_blank">URL Control de citas y Pacientes Veterinario</a>**
