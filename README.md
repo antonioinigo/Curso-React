@@ -14,5 +14,5 @@ Proyectos de React impartido en Udemy
 
 **<a href="https://lookforweather.netlify.app/" target="_blank">URL Buscador de Climas</a>**
 
-**<a href="https://pricecryto.netlify.app/" target="_blank">URL Buscador de Precios Cryptomonedas</a>**
+**<a href="https://pricecrypto.netlify.app/" target="_blank">URL Buscador de Precios Cryptomonedas</a>**
 
