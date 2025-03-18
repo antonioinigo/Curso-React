@@ -18,3 +18,4 @@ Proyectos de React impartido en Udemy
 
 **<a href="https://rest-apis-typescript-frotend-pdcx.vercel.app/" target="_blank">URL REST-API's Productos</a>**
 
+**<a href="https://up-task-frontend-nu-eight.vercel.app/auth/login" target="_blank">URL UpTask-Mern Productos</a>**
